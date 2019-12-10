@@ -11,7 +11,7 @@ class ReadThreadsTest extends TestCase
     /**
      *@test
      */
-    public function setUp()
+    public function setUp(): void
     {
         parent::setUp();
 
